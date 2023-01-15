@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+      "pkief.material-icon-theme"
+      , "usernamehw.errorlens"
+      , "fabiospampinato.vscode-diff"
+      , "mhutchie.git-graph"
+      , "donjayamanne.githistory"
+      , "gruntfuggly.todo-tree"
+      , "oderwat.indent-rainbow"
+      , "formulahendry.auto-rename-tag"
+      , "ibm.output-colorizer"
+  ]
+}
